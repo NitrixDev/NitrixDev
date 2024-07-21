@@ -1,6 +1,6 @@
 <!-- ASCII Art Banner -->
 <div align="center">
-  <img src="https://img.shields.io/badge/imp1338-red?style=for-the-badge" alt="NitrixDev">
+  <img src="https://img.shields.io/badge/NitrixDev-red?style=for-the-badge" alt="NitrixDev">
 </div>
 
 <!-- Introduction -->
