@@ -34,5 +34,5 @@
 ## 📈 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imp1338&show_icons=true&theme=dark" alt="NitrixDev's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitrixDev&show_icons=true&theme=dark%22%20alt=%22NitrixDev%27s%20GitHub%20Stats">
 </div>
